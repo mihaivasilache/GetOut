@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(32): warning C4309: 'initializing': truncation of constant value
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(38): warning C4309: 'initializing': truncation of constant value
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(128): warning C4101: 'j': unreferenced local variable
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(128): warning C4101: 'i': unreferenced local variable
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(467): warning C4101: 'j': unreferenced local variable
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(688): warning C4101: 'k': unreferenced local variable
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(964): warning C4018: '<': signed/unsigned mismatch
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(1003): warning C4018: '<': signed/unsigned mismatch
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(1043): warning C4018: '<': signed/unsigned mismatch
+c:\users\mvasilache\google drive\anul iii\retele neuronale\getout - rn\getout - rn\source.cpp(1552): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GetOut - RN.vcxproj -> C:\Users\mvasilache\Google Drive\Anul III\Retele Neuronale\GetOut - RN\Debug\GetOut - RN.exe
+  GetOut - RN.vcxproj -> C:\Users\mvasilache\Google Drive\Anul III\Retele Neuronale\GetOut - RN\Debug\GetOut - RN.pdb (Partial PDB)
